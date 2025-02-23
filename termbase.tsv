@@ -6,6 +6,7 @@ Aglarond		阿戈拉隆			/ˈɑːglɑːrɒnd/ AHG-lah-rond	绝域东境国家
 Akanûl		阿坎努				维洪荒原东部国家
 Alamber Sea	Sahuagin Sea	阿兰勃海	沙华鱼人之海	阿兰勃内海		费伦东部内海
 Aleaxtis	Kingdom of the Sahuagin	艾利克提斯	沙华鱼人王国		/ɑːliˈɑːkstɪs/ al-ee-AKS-tiss	阿兰勃海的沙华鱼人王国
+Almraiven	The City of Spells	阿尔姆莱文	法术之城			卡林珊城市
 Amn	The Merchant's Domain	安姆	商人之国		/ɔːm/ awm	阴谋之地国家
 Auril	The Cold Goddess、The Queen of Cold and Frost、Queen of Frozen Tears、The Frostmaiden、Brittle Maiden、Frost Sprite Queen、Lady Frostkiss、Lady Icekiss、Storm-bringer、Soverign of Summers Lost、General of Winter's War、Winter's Womb、Icedawn	欧吕尔	寒冰女神、寒霜女王、冻泪女王、冰霜少女、虚幻少女、霜精女王、霜吻女士、冰吻女士、携风者、无夏之王、冬将军、冬之母、冰封黎明		/ˈɔːrɪl/ AW-rill	费伦神祇
 Auril’s Teeth		欧吕尔之牙				费伦东北部地区
@@ -15,9 +16,14 @@ Bedine		贝戴				居住于安诺阿克沙漠的民族
 Black Ash Plains		黑烬旷野				燃烟山脉南部荒野
 Bloodstone		血石				恶魔之地地区名、宝石名、村庄名
 Border Kingdoms		边境诸国		边境王国		蒸气湖东南地区
+Calim		卡林				气巨灵贵族
+Calim Desert		卡林沙漠	天火荒原			卡林珊沙漠
+Calimshan	Skyfire Emirates、Kingdom of Calimshan	卡林珊	天火酋长国、卡林珊王国		/ˈkɑːlɪmʃɑːn/ CAL-im-shan	阴谋之地国家
 Candlekeep		烛堡				剑湾城镇兼图书馆
 Chionthar River	River Chionthar	冲萨河				西央土河流
 Chondath		琼达斯				维洪海域东部国家
+Chult		楚尔特		查勒特		楚尔特半岛西端地区
+Chultan Peninsula	Savage Coast	楚尔特半岛	蛮荒海岸			费伦西南地区半岛
 Cormanthor	The Elven Woods、The Northern Forest	科曼索	精灵之森、北方森林		/kɔːrmɑːnθˈɔːr/ kor-manth-OR	东央土森林
 Cormyr	Forest Country、Land of the Purple Dragon	科米尔	森林之国、紫龙之土		/kɔːrˈmɪər/ core-MEER	东央土国家
 Creator race	iqua Tel’Quessir、Iquar-Tel'Quessir、Iquar'Tel'Quessir	创造者种族	艾夸·泰'奎瑟			五个在费伦雷霆时代活跃的古老种族，别名为精灵语
@@ -29,6 +35,7 @@ Dunwood	The Rawlinswood	顿林	罗林斯森林			巨谷森林
 Eastern Heartlands		东央土		东哈特兰德		费伦西部地理区域
 Easting Reach		朝东海域		东河口、极东海湾		坠星海东北海域
 Elturgard		埃尔图迦德		埃尔托加德		西央土国家
+Era of Skyfire		天火时代				气巨灵卡林与火巨灵曼农进行战争的时代，曾有两次
 Erlkazar		埃尔卡扎尔				阴谋之地王国
 Evermeet	Green Isle	永聚岛	绿岛			无痕海精灵岛屿
 Evermoors	Trollmoors	永恒荒野	巨魔荒野			费伦北部荒原
@@ -61,11 +68,14 @@ Kingdom of Many-Arrows	Kingdom of Dark Arrows	众箭王国	暗箭王国			费伦
 Kolophoon		科洛芬				雷霆时代的巴契兹魔鱼帝国
 Lake of Steam	Arnaden	蒸气湖	阿纳登			光耀之海北方湖泊
 Lands of Intrigue		阴谋之地				费伦西南区域名
+Lapaliiya	Lapal League	拉帕利亚	拉帕联盟			楚尔特半岛城邦联盟
 Lords of Imphras II	Council of Lords	因弗拉斯二世议会	领主议会			因匹特议会
 Luruar	League of the Silver Marches、Silver Marches	洛露阿	白银边疆联盟、白银边疆	拉露亚、银月联盟		费伦西北城邦同盟
 Luskan	the City of Sails	路斯坎	千帆之城			剑湾城市
 Marsh of Chelimber		舍林贝尔沼泽		彻里姆巴沼泽	/ʃɛˈlɪmbɛr/ sheh-LIM-ber	西央土地名
 Maztica	The True World	马兹提卡	真实世界	马兹特克、马兹提克	/mɑːzˈtikɑː/ mahz-TEE-ka	费伦西方大陆
+Memnon		曼农				火巨灵贵族
+Mhair Archipelago		姆海尔群岛				魔疫后楚尔特半岛残留岛屿
 Mistledale		迷雾谷				谷地之一
 Moonsea		月海				费伦北部湖泊
 Moonshaes		月影群岛				无痕海岛屿群
@@ -88,27 +98,35 @@ Rashemen	Land of Berserkers	莱瑟曼	狂战士之国		/rɑːˈʃɛmɛn/ rah-SHE
 Rhindaun		林道恩				泰瑟尔王朝名
 Ruathym		卢厄费姆岛		洛瑟姆岛	/ˈruːəθɪm/ ROO-uh-thim	月影群岛以北岛屿
 Sakkors		萨科斯				耐瑟浮空城
+Samarach		萨玛拉		萨玛拉克		楚尔特半岛国家
 Sand Kings		沙王				贝戴人中的反耐瑟抵抗军
 Sarrukh	saurians、progenitors of the Scaled Ones	撒鲁克	蜥蜴人、有鳞类之祖	撒鲁克巫虺		费伦创造者种族之一
+Schamedar Plains		沙梅达平原				卡林珊平原
 Sea of Fallen Stars	Inner Sea	坠星海	内海	陨星海		费伦中部内海
 Sembia		桑比亚				东央土国家
 Serôs		瑟洛斯			SAY-ros	坠星海海底的称呼
 Serpent Hills		蛇丘		毒蛇山脉		西央土地名
+Serpentes		蛇之国		巨蛇帝国	意为nation of serpents	楚尔特半岛蛇人国家
 Shadovar		暗影之民		黯影城民、阴魂人		从堕影冥界归来的耐瑟人
 Shining Sea		光耀之海				费伦位于楚尔特和卡林珊间的海洋
 Shou Lung		受龙		翔龙		卡拉图国家
 Shyr		帅尔				艾比尔元素裔国家
 Smoking Mountains	Smoky Mountains、Marthessel	燃烟山脉	烟熏山、马瑟塞尔			恩瑟山脉
 Sossal		索萨尔			/ˈsɔːsɑːl/ SAW-sall	欧吕尔之牙地区国家
+Spider Swamp	Plain of Stone Spiders	蜘蛛沼泽	石蜘蛛平原			卡林珊沼泽，魔疫后转变为平原
 Spine of the World	the Wall	世界之脊	墙			费伦北部山脉
 Stonelands		岩地				科米尔北方区域
+Suldolphor	Suldolphor the Golden、The Golden City	苏尔多佛尔	黄金之城苏尔多佛尔、黄金之城			卡林珊城市
 Sword Coast	the Empty Lands	剑湾	无国之地	剑之海岸		费伦西部海岸
+Talagath’s Gauntlet	The Strait of Storms、Suldolphor Strait、Wide Water	塔拉加斯手套海峡	风暴海峡、苏尔多佛尔海峡、宽水峡			蒸气湖南部海峡
+Tashalar	The Tashalar	塔沙拉尔				楚尔特半岛国家
 Tethyr		泰瑟尔			/ˈtɛθɪər/ TEH-theer	阴谋之地国家
 Thar	Great Gray Land	萨尔	大灰地			月海地区荒地
 Thay	Bread Basket of the East	塞尔	东方的面包篮			绝域东境国家
 The Demonlands		恶魔之地				费伦东北部地区
 the North	the Savage North、Northwest Faerûn	北地	蛮荒北地、西北费伦			费伦西北地理区域
 Thesk	The Gateway to the East	赛斯克	往东方的门户			绝域东境国家
+Thindol		辛朵尔		廷朵尔		楚尔特半岛国家
 Threskel		费雷斯科		色雷斯凯	https://www.youtube.com/watch?v=fGDt-VLY1Ms&t=1220s	阿兰勃海国家
 Tilver’s Gap		提凡峡谷				科米尔、岩地、谷地接壤区域
 Trackless Sea	Taylola、the Eastern Ocean	无痕海	泰洛拉、东海	无踪海		费伦西部大洋
